@@ -10,8 +10,9 @@ class Matias:
         return "Scalable systems > Fancy code"
         
 🚀 About Me
-🧠 Informatics Engineering student
-💼 Working in IT Support / Backend (automation, debugging, internal systems)
+
+🧠 Computer Engineer with over 2 years of experience
+💼 Working in Backend (automation, debugging, internal systems)
 🔎 Passionate about AI, Data Science & Data Engineering
 🏗️ Building full stack applications that actually solve business problems
 🎯 Long-term goal: Become a tech leader / CTO & build impactful companies
